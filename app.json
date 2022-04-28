@@ -1,0 +1,18 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray VLESS on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "d8b6af50-11dd-46ae-b598-6701778ce6b3"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/lxbe/netfiles",
+    "stack": "container"
+}
